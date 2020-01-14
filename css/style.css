@@ -1,8 +1,5 @@
 div{
     text-align: center;
-   
-   
- 
 }
 .hr{
     max-width: 25%;
@@ -12,4 +9,7 @@ div{
 }
 p{
     color: lightslategray;
+}
+.myclass{
+    text-align: center;
 }
